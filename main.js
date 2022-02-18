@@ -1,6 +1,3 @@
-
-//console.log("Hello World");
-
 //Task on String Function
 
 let firstName = prompt("Enter your First Name:");
